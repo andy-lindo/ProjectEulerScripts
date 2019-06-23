@@ -38,3 +38,4 @@ n = find_triangular_index(500)
 
 print(n * n + 1 /2)
 print('done')
+print('done')
