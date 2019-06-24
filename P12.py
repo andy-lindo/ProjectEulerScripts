@@ -34,6 +34,7 @@ def find_triangular_index(factor_limit):
         lnum, rnum = rnum, num_divisors(n+1)
     return n
 
+
 n = find_triangular_index(500)
 
 print(n * n + 1 /2)
